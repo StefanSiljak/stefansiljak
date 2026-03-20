@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [www.stefansiljak.com](www.stefansiljak.com)
+- 👨‍💻 All of my projects are available at [[www.stefansiljak.com](https://www.stefansiljak.com/)]
 
 - 💬 Ask me about **React**
 
